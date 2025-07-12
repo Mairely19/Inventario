@@ -1,0 +1,23 @@
+{
+  "Usuario": {
+    "id": "string",
+    "nombre": "string",
+    "correo": "string"
+  },
+  "Producto": {
+    "id": "string",
+    "nombre": "string",
+    "descripcion": "string",
+    "precio": "number"
+  },
+  "Informe": {
+    "id": "string",
+    "fecha": "string",
+    "tipo": "string"
+  },
+  "Devolucion": {
+    "id": "string",
+    "producto_id": "string",
+    "motivo": "string"
+  }
+}
